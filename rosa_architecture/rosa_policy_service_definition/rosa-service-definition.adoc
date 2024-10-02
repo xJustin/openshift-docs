@@ -29,6 +29,8 @@ include::modules/rosa-sdpolicy-instance-types.adoc[leveloffset=+2]
 
 For a detailed listing of supported instance types, see xref:../rosa_policy_service_definition/rosa-instance-types.adoc#rosa-instance-types[{product-title} instance types].
 
+For more information about the maximum number of supported worker nodes in a {rosa-classic} cluster, see xref:../../rosa_planning/rosa-limits-scalability.adoc#rosa-limits-scalability[Limits and scalability].
+
 
 include::modules/rosa-sdpolicy-am-regions-az.adoc[leveloffset=+2]
 
