@@ -1,0 +1,10 @@
+// Module included in the following assemblies:
+//
+// * rosa_cluster_admin/rosa_nodes/rosa-managing-worker-nodes.adoc
+
+:_mod-docs-content-type: CONCEPT
+[id="configuring_auto_repair_{context}"]
+= Configuring machine pool auto repair
+
+
+====

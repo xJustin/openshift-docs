@@ -15,6 +15,10 @@ include::modules/creating-a-machine-pool.adoc[leveloffset=+1]
 include::modules/creating-a-machine-pool-ocm.adoc[leveloffset=+2]
 include::modules/creating-a-machine-pool-cli.adoc[leveloffset=+2]
 
+include::modules/configuring-auto-repair.adoc[leveloffset=+1]
+include::modules/configuring-auto-repair-ocm.adoc[leveloffset=+2]
+include::modules/creating-a-machine-pool-cli.adoc[leveloffset=+2]
+
 // TODO: This additional resource can be added back once all of the files are added to the ROSA HCP distro.
 ifndef::openshift-rosa-hcp[]
 [role="_additional-resources"]

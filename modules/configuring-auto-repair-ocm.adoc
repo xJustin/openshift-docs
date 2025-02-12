@@ -1,0 +1,30 @@
+// Module included in the following assemblies:
+//
+// * rosa_cluster_admin/rosa_nodes/rosa-managing-worker-nodes.adoc
+// * nodes/rosa-managing-worker-nodes.adoc
+// * osd_cluster_admin/osd_nodes/osd-managing-worker-nodes.adoc
+
+:_mod-docs-content-type: PROCEDURE
+[id="configuring_auto_repair_ocm_{context}"]
+
+= Configuring machine pool auto-repair using OpenShift Cluster Manager
+
+
+
+
+.Prerequisites
+
+* You created a ROSA cluster.
+
+
+.Procedure
+
+. Navigate to {cluster-manager-url} and select your cluster.
+
+. Under the *Machine pools* tab, click *Add machine pool*.
+
+
+
+.Verification
+
+* Verify that the machine pool is visible on the *Machine pools* page and the configuration is as expected.
